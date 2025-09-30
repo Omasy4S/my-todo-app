@@ -565,7 +565,7 @@ function App() {
                 animate={{ scale: 1 }}
                 transition={{ delay: 0.2, type: "spring" }}
               >
-                🚀 Умный To-Do
+                🚀 To-Do-List
               </motion.span>
             </h1>
             <p className="app-subtitle">{randomMotivation}</p>
